@@ -3,15 +3,16 @@
 ### Heading3
 #### Heading4
 
-``` javascript
-var myVar = "Hello, world!";
-```
 
+This is some text with **markdown** code.
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
-- [ x] Turn on GitHub Pages
-- [ ] Outline my portfolio
+``` javascript
+var myVar = "Hello, world!";
+```
+- [ ] Turn on GitHub Pages
+-  [x] Outline my portfolio
 - [ ] Introduce myself to the world
